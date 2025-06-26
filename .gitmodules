@@ -7,3 +7,6 @@
 [submodule "submodules/simple-knn"]
 	path = submodules/simple-knn
 	url = https://github.com/camenduru/simple-knn.git
+[submodule "submodules/fast_gicp"]
+	path = submodules/fast_gicp
+	url = https://github.com/Lab-of-AI-and-Robotics/fast_gicp.git
